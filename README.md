@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="username" height="30" width="40" /></a>
 <a href="https://discord.gg/#id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="id" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oualid-khiar-6481202a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
