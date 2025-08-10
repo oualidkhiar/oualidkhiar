@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm oualid khiar</h1>
 <h3 align="center">I'm a student at 1337 Bengurir (42 Network)</h3>
 <div style="display: flex;">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/oukhiar" alt="oukhiar's 42 stats" /></a>
+[![oukhiar's 42 stats](https://badge.mediaplus.ma/levi/oukhiar)](https://github.com/oakoudad/badge42)
 <img align="right" width="370px" alt="coding" src="https://camo.githubusercontent.com/c684ff0ce7bb6263d4058df18a69fcef5ba4f86f78e69656258d8a304a6dad35/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3933363037303838323738313538343035342f324532313444304339454336343534303341414143333337323031464534424137453031454131362f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365">
 </div>
 <p align="center"> 
