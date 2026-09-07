@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **42 cursus**
 
-- 📫 How to reach me **wkhiar80@gmail.com**
+- 📫 How to reach me **oualid.khiar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
